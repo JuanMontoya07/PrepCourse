@@ -1,2 +1,1 @@
-# PrepCourse
-This is a test repository
+This is a test proyect for me to learn how to create and open a repository.
